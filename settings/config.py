@@ -1,7 +1,8 @@
 import os
 from emoji import emojize
 
-API_TOKEN = ''
+LINK = 't.me/sanch1302_bot.'
+API_TOKEN = '5625402864:AAHGd0ZAMvsylDQep53XzQQwCyEeY356ygY'
 NAME_BD = 'products.sqlite'
 VERSION = '0.0.1'
 AUTHOR = 'Sanch'
